@@ -1,0 +1,1 @@
+![przepływ sterowania](./PrzeplywSterowania.png)
